@@ -139,17 +139,6 @@ Data → Preprocessing → Feature Engineering → Model → Calibration
 
 ---
 
-## How to Run
-
-```
-git clone <repo-link>
-cd cardiovascular-risk-system
-pip install -r requirements.txt
-python main.py
-```
-
----
-
 ## Tech Stack
 
 - Python  
